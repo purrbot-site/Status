@@ -31,7 +31,7 @@ status-website:
   cname: status.purrbot.site
   logoUrl: https://purrbot.site/assets/img/avatar.png
   favicon: https://purrbot.site/assets/img/avatar.png
-  name: Uptime PurrBot
+  name: PurrBot Status
   introTitle: "Status page of all services offered under purrbot.site, including the Bot."
   introMessage: |-
     On this website can you see the current status of the Discord Bot *Purr*, [the website](https://purrbot.site) and the different [ImageAPI endpoints](https://docs.purrbot.site/api).
@@ -45,6 +45,29 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Discord
       href: https://purrbot.site/discord
+  metaTags:
+    - name: "theme-color"
+      content: "#3F51B5"
+    - name: "description"
+      content: "Status page for various services of purrbot.site including the bot."
+    - name: "twitter:card"
+      content: "summary"
+    - name: "twitter:title"
+      content: "PurrBot Status"
+    - name: "twitter:description"
+      content: "Status page for various services of purrbot.site including the bot."
+    - name: "twitter:image"
+      content: "https://purrbot.site/assets/img/avatar.png"
+    - name: "og:site_name"
+      content: "PurrBot Status"
+    - name: "og:title"
+      content: "PurrBot Status"
+    - name: "og:url"
+      content: "https://status.purrbot.site"
+    - name: "og:description"
+      content: "Status page for various services of purrbot.site including the bot."
+    - name: "og:image"
+      content: "https://purrbot.site/assets/img/avatar.png"
 
 assignees:
   - Andre601
