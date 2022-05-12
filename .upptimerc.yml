@@ -28,7 +28,7 @@ sites:
 
 status-website:
   theme: dark
-  caname: status.purrbot.site
+  cname: status.purrbot.site
   logoUrl: https://purrbot.site/assets/img/avatar.png
   favicon: https://purrbot.site/assets/img/avatar.png
   name: Uptime PurrBot
