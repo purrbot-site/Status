@@ -27,7 +27,7 @@ sites:
     icon: https://purrbot.site/assets/img/avatar.png
 
 status-website:
-  themeUrl: https://status.purrbot.site/github-dark.css
+  theme: dark
   cname: status.purrbot.site
   logoUrl: https://purrbot.site/assets/img/avatar.png
   favicon: https://purrbot.site/assets/img/avatar.png
