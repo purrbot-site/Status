@@ -1,31 +1,50 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: purrbot-site
+repo: Status
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Bot
+    url: https://purrbot.site/shards
+    icon: https://purrbot.site/assets/img/avatar.png
+  - name: Website
+    url: https://purrbot.site
+    icon: https://purrbot.site/assets/img/avatar.png
+  - name: 'Images API [/api/img/*]'
+    url: https://purrbot.site/api/img/sfw/background/img
+    icon: https://purrbot.site/assets/img/avatar.png
+  - name: 'Quote Image API [/api/quote]'
+    url: https://purrbot.site/api/quote
+    method: POST
+    headers:
+      - "Content-Type: application/json"
+    body: "{}"
+    icon: https://purrbot.site/assets/img/avatar.png
+  - name: 'Status Image API [/api/status]'
+    url: https://purrbot.site/api/status
+    method: POST
+    headers:
+      - "Content-Type: application/json"
+    body: "{}"
+    icon: https://purrbot.site/assets/img/avatar.png
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  theme: dark
+  caname: status.purrbot.site
+  logoUrl: https://purrbot.site/assets/img/avatar.png
+  favicon: https://purrbot.site/assets/img/avatar.png
+  name: Uptime PurrBot
+  introTitle: "Status page of all services offered under purrbot.site, including the Bot."
+  introMessage: |-
+    On this website can you see the current status of the Discord Bot \*Purr\*, [the website](https://purrbot.site) and the different [ImageAPI endpoints](https://docs.purrbot.site/api).
+    The entire page is [open source](https://github.com/purrbot-site/Status) and powered by [Upptime](https://upptime.js.org)!
   navbar:
     - title: Status
       href: /
+    - title: Website
+      href: https://purrbot.site
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Discord
+      href: https://purrbot.site/discord
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+assignees:
+  - Andre601
