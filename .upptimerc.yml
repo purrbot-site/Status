@@ -34,7 +34,7 @@ status-website:
   name: PurrBot Status
   introTitle: "Status page of all services offered under purrbot.site, including the Bot."
   introMessage: |-
-    On this website can you see the current status of the Discord Bot *Purr*, [the website](https://purrbot.site) and the different [ImageAPI endpoints](https://docs.purrbot.site/api).
+    On this website can you see the current status of the Discord Bot \*Purr*, [the website](https://purrbot.site) and the different [ImageAPI endpoints](https://docs.purrbot.site/api).
     The entire page is [open source](https://github.com/purrbot-site/Status) and powered by [Upptime](https://upptime.js.org)!
   navbar:
     - title: Status
