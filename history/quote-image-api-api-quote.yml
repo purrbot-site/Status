@@ -1,7 +1,7 @@
 url: https://purrbot.site/api/quote
-status: up
-code: 200
-responseTime: 234
-lastUpdated: 2022-05-21T23:14:00.352Z
+status: down
+code: 500
+responseTime: 10131
+lastUpdated: 2022-05-22T17:58:38.333Z
 startTime: Thu May 12 2022 14:52:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
