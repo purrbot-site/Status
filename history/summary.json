@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 378,
-    "timeDay": 476,
-    "timeWeek": 456,
-    "timeMonth": 378,
-    "timeYear": 378,
+    "time": 383,
+    "timeDay": 502,
+    "timeWeek": 465,
+    "timeMonth": 383,
+    "timeYear": 383,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 211,
-    "timeDay": 244,
-    "timeWeek": 242,
-    "timeMonth": 211,
-    "timeYear": 211,
+    "time": 209,
+    "timeDay": 200,
+    "timeWeek": 231,
+    "timeMonth": 209,
+    "timeYear": 209,
     "dailyMinutesDown": {}
   },
   {
@@ -46,51 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 107,
-    "timeDay": 123,
-    "timeWeek": 122,
-    "timeMonth": 107,
-    "timeYear": 107,
+    "time": 109,
+    "timeDay": 141,
+    "timeWeek": 127,
+    "timeMonth": 109,
+    "timeYear": 109,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Quote Image API [/api/quote]",
-    "url": "https://purrbot.site/api/quote",
-    "icon": "https://purrbot.site/assets/img/avatar.png",
-    "slug": "quote-image-api-api-quote",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 558,
-    "timeDay": 232,
-    "timeWeek": 260,
-    "timeMonth": 558,
-    "timeYear": 558,
-    "dailyMinutesDown": {
-      "2022-05-31": 0
-    }
-  },
-  {
-    "name": "Status Image API [/api/status]",
-    "url": "https://purrbot.site/api/status",
-    "icon": "https://purrbot.site/assets/img/avatar.png",
-    "slug": "status-image-api-api-status",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 271,
-    "timeDay": 231,
-    "timeWeek": 286,
-    "timeMonth": 271,
-    "timeYear": 271,
-    "dailyMinutesDown": {
-      "2022-05-31": 0
-    }
   }
 ]
