@@ -11,20 +11,6 @@ sites:
   - name: 'Images API [/api/img/*]'
     url: https://purrbot.site/api/img/sfw/background/img
     icon: https://purrbot.site/assets/img/avatar.png
-  - name: 'Quote Image API [/api/quote]'
-    url: https://purrbot.site/api/quote
-    method: POST
-    headers:
-      - "Content-Type: application/json"
-    body: "{}"
-    icon: https://purrbot.site/assets/img/avatar.png
-  - name: 'Status Image API [/api/status]'
-    url: https://purrbot.site/api/status
-    method: POST
-    headers:
-      - "Content-Type: application/json"
-    body: "{}"
-    icon: https://purrbot.site/assets/img/avatar.png
 
 status-website:
   themeUrl: https://purrbot.site/assets/css/discord.css
