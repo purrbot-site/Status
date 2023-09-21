@@ -22,19 +22,19 @@
     "url": "https://purrbot.site",
     "icon": "https://purrbot.site/assets/img/avatar.png",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 163,
-    "timeDay": 62,
-    "timeWeek": 135,
-    "timeMonth": 149,
+    "timeDay": 98,
+    "timeWeek": 139,
+    "timeMonth": 150,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2023-09-21": 0
+      "2023-09-21": 10
     }
   },
   {
