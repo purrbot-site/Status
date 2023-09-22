@@ -24,18 +24,16 @@
     "slug": "website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 163,
     "timeDay": 98,
     "timeWeek": 139,
     "timeMonth": 150,
     "timeYear": 145,
-    "dailyMinutesDown": {
-      "2023-09-21": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Images API [/api/img/*]",
