@@ -13,7 +13,7 @@ sites:
     icon: https://purrbot.site/assets/img/avatar.png
 
 status-website:
-  themeUrl: https://purrbot.site/assets/css/discord.css
+  themeUrl: https://status.purrbot.site/discord-theme.css
   cname: status.purrbot.site
   logoUrl: https://purrbot.site/assets/img/avatar.png
   favicon: https://purrbot.site/assets/img/avatar.png
