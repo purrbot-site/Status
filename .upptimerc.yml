@@ -8,8 +8,11 @@ sites:
   - name: Website
     url: https://purrbot.site
     icon: https://purrbot.site/assets/img/avatar.png
-  - name: 'Images API [/api/img/*]'
-    url: https://purrbot.site/api/img/sfw/background/img
+  - name: 'Purrbot API [api.purrbot.site/*]'
+    url: https://api.purrbot.site
+    icon: https://purrbot.site/assets/img/avatar.png
+  - name: 'Legacy API [/api/*]'
+    url: https://purrbot.site/api/info
     icon: https://purrbot.site/assets/img/avatar.png
 
 status-website:
