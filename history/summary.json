@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 460,
-    "timeDay": 472,
-    "timeWeek": 520,
-    "timeMonth": 497,
-    "timeYear": 466,
+    "timeDay": 432,
+    "timeWeek": 504,
+    "timeMonth": 494,
+    "timeYear": 465,
     "dailyMinutesDown": {
       "2025-04-10": 15,
       "2025-03-18": 11
@@ -32,32 +32,48 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 144,
-    "timeDay": 127,
-    "timeWeek": 151,
-    "timeMonth": 141,
+    "timeDay": 119,
+    "timeWeek": 146,
+    "timeMonth": 140,
     "timeYear": 145,
     "dailyMinutesDown": {
       "2025-03-18": 9
     }
   },
   {
-    "name": "Images API [/api/img/*]",
-    "url": "https://purrbot.site/api/img/sfw/background/img",
+    "name": "Purrbot API [api.purrbot.site/*]",
+    "url": "https://api.purrbot.site",
     "icon": "https://purrbot.site/assets/img/avatar.png",
-    "slug": "images-api-api-img",
+    "slug": "purrbot-api-api-purrbot-site",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 137,
-    "timeDay": 126,
-    "timeWeek": 151,
-    "timeMonth": 141,
-    "timeYear": 136,
-    "dailyMinutesDown": {
-      "2025-03-18": 8
-    }
+    "time": 325,
+    "timeDay": 325,
+    "timeWeek": 325,
+    "timeMonth": 325,
+    "timeYear": 325,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Legacy API [/api/*]",
+    "url": "https://purrbot.site/api/info",
+    "icon": "https://purrbot.site/assets/img/avatar.png",
+    "slug": "legacy-api-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 109,
+    "timeDay": 109,
+    "timeWeek": 109,
+    "timeMonth": 109,
+    "timeYear": 109,
+    "dailyMinutesDown": {}
   }
 ]
