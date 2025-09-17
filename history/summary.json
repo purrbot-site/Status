@@ -4,7 +4,7 @@
     "url": "https://purrbot.site/shards",
     "icon": "https://purrbot.site/assets/img/avatar.png",
     "slug": "bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 480,
     "timeYear": 474,
     "dailyMinutesDown": {
+      "2025-09-17": 0,
       "2025-06-03": 35,
       "2025-04-10": 15,
       "2025-03-18": 11
