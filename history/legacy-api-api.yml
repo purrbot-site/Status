@@ -1,7 +1,7 @@
 url: https://purrbot.site/api/info
-status: down
-code: 503
-responseTime: 8
-lastUpdated: 2025-10-01T04:45:51.818Z
+status: up
+code: 200
+responseTime: 114
+lastUpdated: 2025-10-01T04:56:16.550Z
 startTime: 2025-05-15T15:03:03.619Z
 generator: Upptime <https://github.com/upptime/upptime>
