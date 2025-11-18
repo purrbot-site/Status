@@ -1,7 +1,7 @@
 url: https://purrbot.site/shards
-status: up
-code: 200
-responseTime: 360
-lastUpdated: 2025-11-18T12:33:39.235Z
+status: down
+code: 500
+responseTime: 146
+lastUpdated: 2025-11-18T13:17:29.048Z
 startTime: 2022-05-12T14:52:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
