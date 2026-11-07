@@ -3,16 +3,13 @@ repo: Status
 
 sites:
   - name: Bot
-    url: https://purrbot.site/shards
+    url: https://bot.purrbot.site/shards
     icon: https://purrbot.site/assets/img/avatar.png
   - name: Website
     url: https://purrbot.site
     icon: https://purrbot.site/assets/img/avatar.png
   - name: 'Purrbot API [api.purrbot.site/*]'
     url: https://api.purrbot.site
-    icon: https://purrbot.site/assets/img/avatar.png
-  - name: 'Legacy API [/api/*]'
-    url: https://purrbot.site/api/info
     icon: https://purrbot.site/assets/img/avatar.png
 
 status-website:
